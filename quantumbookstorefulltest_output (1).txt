@@ -1,0 +1,31 @@
+Quantum book store: Please make sure to enter your name, email, and address to proceed with your order.
+Quantum book store: Book added - Java Basics
+Quantum book store: Book added - Python for All
+Quantum book store: Book added - Data Structures Demo
+Quantum book store: Removed outdated book - Data Structures Demo
+Enter your name: 
+hagr
+Enter your email: 
+mohammedhagar354@gmail.com
+Enter your address: 
+cairo
+
+Quantum book store: Available Books:
+P001 - Java Basics (Paper)
+E001 - Python for All (EBook)
+D001 - Data Structures Demo (Demo Book)
+Do you want to buy a PaperBook or EBook? (Enter 'paper' or 'ebook'): 
+paper
+Enter the book ID you want to buy: 
+P001
+Enter the quantity: 
+1
+Quantum book store: Shipping paper book to cairo
+Quantum book store: Purchase successful. Paid: 45.0
+
+Trying to buy Demo Book (should fail):
+Quantum book store: Error - Quantum book store: Book not found.
+Quantum book store: All test operations completed.
+
+
+** Process exited - Return Code: 0 **
