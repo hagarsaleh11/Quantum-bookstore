@@ -1,0 +1,9 @@
+*.class
+*.log
+*.jar
+/build/
+/target/
+.DS_Store
+*.iml
+.idea/
+.vscode/
